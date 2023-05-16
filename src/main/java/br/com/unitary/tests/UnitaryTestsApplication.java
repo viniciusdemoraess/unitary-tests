@@ -8,6 +8,8 @@ public class UnitaryTestsApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(UnitaryTestsApplication.class, args);
+
 	}
 
+	
 }
